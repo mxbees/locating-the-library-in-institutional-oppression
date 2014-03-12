@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "outline for a paper I probably won't write"
+title: "outline: locating the library in institutional oppression"
 date: 2014-01-20 08:17:28 -0500
 comments: true
 categories: [information,libraries,enlightenment]
 ---
-**note: I decided to make this open source with an Apache 2.0 license (see below). You can also [get details about this project on github](https://github.com/satifice/locating-the-library-in-institutional-oppression)**
-
 #Locating the library within institutional oppression
 ##1) Introduction
 
@@ -65,10 +63,10 @@ Um...
 And that is it! I might slap a CC license on this, in the case that someone else feels inspired to write a paper based on this outline. 
 
 
--> **Copyright 2014 nina de jesus
+ **Copyright 2014 nina de jesus
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)** <-
+    [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)**
