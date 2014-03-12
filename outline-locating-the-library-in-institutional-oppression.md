@@ -63,10 +63,10 @@ Um...
 And that is it! I might slap a CC license on this, in the case that someone else feels inspired to write a paper based on this outline. 
 
 
- **Copyright 2014 nina de jesus
+Copyright 2014 nina de jesus
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)**
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
