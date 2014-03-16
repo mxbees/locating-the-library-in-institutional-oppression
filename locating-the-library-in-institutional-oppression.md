@@ -1,5 +1,5 @@
-nina de jesus
-digital project librarian
+nina de jesus | 
+digital project librarian | 
 York University
 
 #Locating the Library in Institutional Oppression
