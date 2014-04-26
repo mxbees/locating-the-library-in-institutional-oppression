@@ -30,7 +30,7 @@ Neither will necessarily be *the* answer, but perhaps they'll contribute to a nu
 
 ##2. The Domain of Discourse
 
-###2.2 Institutional oppression
+###2.1 Institutional oppression
 
 Perhaps one of the more critical elements of this discussion requiring absolute clarity about is the boundaries of what is meant by 'institutional oppression' and what is not. The notion of institutional or systemic oppression speaks to the ways that certain behaviours, attitudes, and ideologies become formalized in the various social, political, and economic organizations, groups, structures, etc. It is about how abstract ideas become reified and concrete through a long, but dynamic and constantly changing, process of human social organization. 
 
@@ -38,9 +38,11 @@ It isn't about how these behaviours, attitudes, and philosophies are emobied in 
 
 The focus will remain on institutional oppression for all the ways that how these institutions are structured, created, and maintained reduce the ability for individuals to make a decision to not embody these values. The easiest example within libraries is controlled vocabularies like the Library of Congress Subject Headings (LCSH) or the Dewey Decimal Classifications (DDC). There are several well known examples, like the fact that non-Christian religions within the DDC are forced to share a narrow number range because they weren't created with a notion to include them. 
 
-This means that catalogers, whatever their individual beliefs and values *must* continue to enforce this ideological (and white-centric) belief that non-Christian religions are not important (or as important as the Christian ones). The way the DDC is set up, a single cataloger deciding that this exclusion and marginalization of non-Christian religions within the DDC is unacceptable can do very little to change the overall system. They cannot assign some other number within the DDC and have it be valid or coherent. If they were to use some other system of classification, the resulting records wouldn't work with current technologies, rendering the items inaccessible.
+This means that catalogers, whatever their individual beliefs and values *must* continue to enforce this ideological (and white-centric) belief that non-Christian religions are not important (or as important as the Christian ones). The way the DDC is set up, a single cataloger deciding that this exclusion and marginalization of non-Christian religions within the DDC is unacceptable can do very little to change the overall system. They cannot assign some other number within the DDC and have it be valid or coherent. If they were to use some other system of classification, the resulting records wouldn't work with current technologies, rendering the items inaccessible. Within such a system, making an ethical choice is very difficult on an individual basis. However, focusing on the system or institution allows us to explore solution that would allow individuals to make better decisions. 
 
-Within such a system, making an ethical choice is very difficult on an individual basis. However, focusing on the system or institution allows us to explore solution that would allow individuals to make better decisions. 
+Institutional oppression is about the system and processes that we use in our daily lives that, by the very nature of how they've been constructed and devised, exclude, marginalize, and oppress some people to the benefit of others. As such, attempting to locate the library in institutionalized oppression is about identifying the processes and systems within libraries that that instantiate oppressive values and beliefs not necessarily restricted to the library. As a consequence, libraries must also be analyzed in relation to other social, political, and economic institutions that act upon the library and that the library, in turn, impacts. 
+
+###2.2 
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
