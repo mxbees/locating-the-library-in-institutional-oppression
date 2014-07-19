@@ -56,9 +56,45 @@ My approach to understanding the enlightenment is more holistic than Bivens-Tatu
 
 A discussion I had with Bivens-Tatum on Twitter about out competing perspectives on the enlightenment makes me confident in asserting that he does not agree with me[^6]. Also, that it is an error to conflate the historical reality of the enlightenment and the ideas. I'm okay with this.
 
-I'll illustrate my point with two examples. First, the enlightenment is often credited for its use of rationality and scientific enquiry -- this is often considered one of the key characteristics of the enlightenment. However, at the same time, this is the age of scientific racism. Given that scientific racism has no basic in actual biology (or reality), it seems strange to credit this period for 'rationality' when it was able to conclude that Black people are 3/5ths human being. Second, we often praise this period for introducing notions of freedom (and democracy). Yet, Thomas Jefferson wrote the Declaration of Independence at the same time he owned other human beings. And the society constructed from this declaration remains a deeply unequal one that incarcerates Black men at absurd rates. He wrote this declaration while sitting on stolen land.
+I'll illustrate my point with two examples. First, the enlightenment is often credited for its use of rationality and scientific enquiry -- this is often considered one of the key characteristics of the enlightenment. However, at the same time, this is the age of scientific racism. Given that scientific racism has no basic in actual biology (or reality), it seems strange to credit this period for 'rationality' when it was able to conclude that Black people are 3/5ths human. Second, we often praise this period for introducing notions of freedom (and democracy). However, Thomas Jefferson wrote the Declaration of Independence at the same time he owned other human beings. And the society constructed from this declaration remains a deeply unequal one that incarcerates Black men at absurd rates. He wrote this declaration while sitting on stolen land.
 
 These historical realities are non-trivial when it comes to examining the ideas of the enlightenment and how they have travelled through history to organize life today. When Bivens-Tatum writes "the enlightened desire to increase knowledge to benefit not just themselves, but the entire human race"[^7] it is of fundamental importance that, for enlightenment era thinkers, the human race was white men only. That they've managed to create a world that systematically, in all areas of life, benefits white men at the detriment of others, must be understood as the actual purpose of their theorizing about truth, rationality, and freedom. As is often said: the ongoing oppression of non-white, non-men is a feature of enlightenment, not a bug.
+
+###2.3 'Libraries'
+
+To a large extent, this paper will be focusing on public libraries (or, at least, the _idea_ of public libraries). Libraries obviously existed before the enlightenment. And pre-enlightenment it is pretty easy to see how libraries functioned as a way to entrench social disparities in power (few people were literate, few people had access to libraries, Europe hadn't had the printing press for that long, and education was definitely *not* something that your average person had access to.
+
+Public libraries are also an idea created during this period, one of the (many) institutions created by the ideology of englightenment. As Bivens-Tatum notes in the opening paragraph of his conclusion:
+
+>The scientific and political principles of the Enlightenment provide the philosophical foundation for American academic and public libraries, and the ultimate goal to which these libraries as a system approach -- a universal library available to all -- would be the culmination of the Enlightenment project in the domain of information.[^8]
+
+At this moment in time, it is harder for me to see academic libraries as fitting within this universal model, mainly because academic libraries aren't (often) understood as 'public' or all that accessible to individuals outside of the academic community[^9]. More importantly, it is public libraries that exist within the minds and imaginations of the 'public' as embodying this romanticized ideal. 
+
+##3 The Imaginary Library
+
+###3.1 Library nostalgia and romanticism
+
+For those of us who love libraries, there is a certain kind of nostalgia that attaches to them, particularly if libraries were important to us as youth. And in this nostalgia, in the retelling of how much and what libraries meant to us as children, a certain romanticized narrative is normalized about what libraries are and what they do. And while this romantic notion of libraries creates a lot of enthusiastic defenders and advocates for the library, it also serves to erase the subtle traces of oppression enacted by libraries.
+
+Library nostalgia, at times, is hard to distinguish from readers nostalgia (or book nostalgia). Especially since the common nostalgic library narrative is typically articulated by people who love to read. Who recollect their memories of the library as places where they had access to an unlimited supply of books. Places that nourished their love and joy of reading. They speak of the smell of books, the joy of browsing in the stacks, the delight of discovering books they never knew about, and so on. Sometimes, but not as frequently, these narratives will include actual librarians. But the presence of librarians isn't a necessary feature to library nostalgia. The necessary elements are books and reading. The library merely exists has place par excellence where these things are possible.
+
+Like all nostalgia, these narratives (of course) are always in the distant past. And by 'distant' I don't mean chronologically, but temporally, technologically, conceptually. And this distance is necessary to create the feelings of nostalgia and romance that adheres to libraries. It is what creates the mythology of libraries.
+
+When you read the nostalgia narratives by adults, it is pretty easy to see that libraries are often something that (only) exist for them as children. That they (quite frequently) are not dedicated users of the library today. This is what I mean by 'temporal' distance, since the narratives can be expressed by an adult of any age, they aren't usually talking about a specific era of libraries. Nonetheless, libraries are always something that exist in the past. And, by existing in the past, they are static and unchanging.
+
+This is why there is often a technological distance, as well. Bookless libraries are still fairly new and uncommon. Again, most nostalgia narratives will focus on the older technologies in libraries: the books, the card catalogues, and maybe the odd OPAC or two. This is partly a result of libraries existing only in the past for most adults[^10]. Because libraries are static, they only relevant technologies they have are focused and centered on books.
+
+The conceptual distance also depends on the temporal distance. It derives from the fact that library nostalgia narratives are told by adults from their remembered perspective as children. As a result of not being current users of the library (in many cases), they retain the unnuanced (and often incorrect) conception, understanding of libraries that they had as children, where they may have mistaken circulation assistants for librarians and other such errors. They are left with a conception of the library, based on this nostalgia, that is often idealized. I'm not suggesting, however, that their idealized conception of libraries fundamentally differs from the idealized conception of libraries within the profession, since librarians ourselves are often the most guilty of reifying library nostalgia.
+
+###3.2 Counter-, subversive, and alternative narratives
+
+The nostalgia narrative, though, does have its counterpoints. Thinking of my own experiences with libraries, themselves filtered through some nostalgia, have certain sites of discordance with the common narrative. 
+
+I remember spending hours browsing the stacks at the main branch of the public library as a teen. I'd spend the hour or so on the bus getting downtown to avail myself of the larger selection at the main branch. But the reason why I spent so many hours browsing the stacks was because I was searching for books with characters I might actually be able to identify with. At that period in time I was mainly looking for stories with queer characters. I was mainly able to find stuff for cis gay men, but little else.
+
+So while my experiences of browsing in the stacks and the joys of finding previously unknown 'worlds' mirrors the standard narrative but it also serves as a counter-point. I wasn't searching for escape (although I often did with fantasy and science fiction at that age), instead I was searching for something that would affirm my reality. Something that would help me feel connected to the real world.
+
+In the few studies that have been done to assess the information seeking behaviour of the LGBT community, this is a common experience. 
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -73,3 +109,9 @@ These historical realities are non-trivial when it comes to examining the ideas 
 [^6]: Make a storify of this
 
 [^7]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 9.
+
+[^8]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 185.
+
+[^9]: This is despite the reality that many academic libraries do, in fact pay additional money for licensing to their electronic resources so that people outside of the university can access the collections. Additionally, many do have open stacks (or easily obtainable guest passes to their physical collections -- and some with community library cards). However, academic libraries appear to do little in the way of outreach to the external community and very few community members actually know that they are able to make us of these research collections.
+
+[^10]: When I talk about 'most adults' I'm really talking about the middle class, white, cis, hetero adult. Since it is most often their narratives which are nostalgic and it is their narratives that have become normalized when we remember libraries. They, as default human, express the 'universal' library nostalgia. Since it is obvious that counter-narratives, subversive narratives, and the like exist, but they are not often told.
