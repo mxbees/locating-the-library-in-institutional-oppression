@@ -94,7 +94,21 @@ I remember spending hours browsing the stacks at the main branch of the public l
 
 So while my experiences of browsing in the stacks and the joys of finding previously unknown 'worlds' mirrors the standard narrative but it also serves as a counter-point. I wasn't searching for escape (although I often did with fantasy and science fiction at that age), instead I was searching for something that would affirm my reality. Something that would help me feel connected to the real world.
 
-In the few studies that have been done to assess the information seeking behaviour of the LGBT community, this is a common experience. 
+In the few studies that have been done to assess the information seeking behaviour of the LGBT community, this is a common experience. In the 2006 paper, "Is there a transgender canon?: Information Seeking and Use in the Transgender Community", the theoretical framework for their investigation centres notion of information gaps as a primary motivator for information seeking, particularly since the information gaps many of the participants were struggling with were often ontological in nature[^11]. Essentially, the transgender respondents of their study sought out information that would confirm/harmonize their understanding of themselves with the external world, rather than escape from it. They were looking for reality-affirming information. As such, it is critically important to note that the internet was highlighted as the most useful place for finding information[^12].
+
+With this understanding, we begin to see the other side of libraries, the one rarely seen or discussed in nostalgia narratives and the side of libraries very much central to this paper: the library as institution. And here, of course, we aren't necessarily talking about the physical buildings and geographical locations of libraries (although these are important parts of the whole), we are talking about the library as socio-economic and political institution. An institution that exists in relation to other socio-economic and political institutions.
+
+As noted in Downey's paper, "librarians are gatekeepers -- the people who decide what their communities would like to read"[^13]. In this role of gatekeeper, it becomes clear that libraries and librarians alike create an institution. And, as institution, can either either be oppressive or liberatory. Nostalgia narratives tend to focus on the liberatory aspects of libraries, highlighting how reading and information provides opportunity and freedom for them.
+
+What happens when the institution (see librarians) engage in activities like 'inside' censorship[^14]? Or when they capitulate to book challenges to remove books targeted to oppressed demographics? Or when, despite clear ethical guidelines, a queer youth can't ask a question without being outed[^15]? What happens when there is so little information for a marginalized group that they no longer even consider the library as a valid source? What does it mean that my research for this very paper has been hampered by most of the few articles about LGBT library users are stuck behind paywalls?
+
+At which point would librarians stop understanding themselves as guardians of intellectual freedom and champions of universal access when there is little-to-no evidence that they do anything beyond serving the interests and needs of the status quo?
+
+##4. Whence libraries? 
+
+###4.1 The historical genesis of libraries
+
+The answer to the questions in the previous partially relies on the history of libraries. Getting in to the history of libraries can take many different paths, but for this paper we are going to follow along with the historical and intellectual context described by Bivens-Tatum in chapter three of _Libraries and the Enlightenment_. The chapter is rather delightfully titled "Public Libraries and the Political Enlightenment", something that rather supports my ideological approach for understading the enlightenment (contrary to what Bivens-Tatum asserts in chapter one). 
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -115,3 +129,13 @@ In the few studies that have been done to assess the information seeking behavio
 [^9]: This is despite the reality that many academic libraries do, in fact pay additional money for licensing to their electronic resources so that people outside of the university can access the collections. Additionally, many do have open stacks (or easily obtainable guest passes to their physical collections -- and some with community library cards). However, academic libraries appear to do little in the way of outreach to the external community and very few community members actually know that they are able to make us of these research collections.
 
 [^10]: When I talk about 'most adults' I'm really talking about the middle class, white, cis, hetero adult. Since it is most often their narratives which are nostalgic and it is their narratives that have become normalized when we remember libraries. They, as default human, express the 'universal' library nostalgia. Since it is obvious that counter-narratives, subversive narratives, and the like exist, but they are not often told.
+
+[^11]: Addams and Pierce, “Is There a a Transgender Canon?: Information Seeking and Use in the Transgender Community,” paper presented at the Canadian Association for Information Science, 2006, 4. http://www.cais-acsi.ca/proceedings/2006/adams_2006.pdf
+
+[^12]: Addams and Pierce, “Is There a a Transgender Canon?: Information Seeking and Use in the Transgender Community,” paper presented at the Canadian Association for Information Science, 2006, 5. http://www.cais-acsi.ca/proceedings/2006/adams_2006.pdf
+
+[^13]: Downey, “Public Library Collection Development Issues Regarding the Information Needs of GLBT Patrons,” _Progressive Librarian_ 25, 2005,90.
+
+[^14]: Berman, “‘Inside’ Censorship,” _Progressive Librarian_ 18, 2001.
+
+[^15]: Curry, “If I Ask, Will They Answer?” _Reference & User Services Quarterly_ 45, 2005.
