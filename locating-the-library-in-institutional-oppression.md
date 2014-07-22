@@ -124,6 +124,14 @@ At which point would librarians stop understanding themselves as guardians of in
 
 The answer to the questions in the previous partially relies on the history of libraries. Getting in to the history of libraries can take many different paths, but for this paper we are going to follow along with the historical and intellectual context described by Bivens-Tatum in chapter three of _Libraries and the Enlightenment_. The chapter is rather delightfully titled "Public Libraries and the Political Enlightenment", something that rather supports my ideological approach for understading the enlightenment (contrary to what Bivens-Tatum asserts in chapter one). 
 
+In discussing the purpose of public libraries, he notes that:
+
+>Public libraries bgan as instruments of enlightenment, hoping to spread knowledge and culture broadly to the peopel, who as free citizens of a democratic republic required access to that knowledge and culture to live fuller lives and to become better citizens.[^22]
+
+He also notes that public libraries pretty much failed miserable on this account, not being widely used and that those who did use it were largely interested in entertainment[^23].
+
+The first (and most obvious) conclusion we can draw from this is that public libraries in America were and always have been political. They have been, since their inception, creations of a specific and particular ideology. I'm also perfectly willing to follow Bivens-Tatum in saying that this ideology is that of the enlightenment. 
+
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
 [^2]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 2.
@@ -163,3 +171,7 @@ The answer to the questions in the previous partially relies on the history of l
 [^20]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 18.
 
 [^21]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 23.
+
+[^22]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
+
+[^23]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
