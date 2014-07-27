@@ -38,7 +38,7 @@ It isn't about how these behaviours, attitudes, and philosophies are emobied in 
 
 The focus will remain on institutional oppression for all the ways that how these institutions are structured, created, and maintained reduce the ability for individuals to make a decision to not embody these values. The easiest example within libraries is controlled vocabularies like the Library of Congress Subject Headings (LCSH) or the Dewey Decimal Classifications (DDC). There are several well known examples, like the fact that non-Christian religions within the DDC are forced to share a narrow number range because they weren't created with a notion to include them. 
 
-This means that catalogers, whatever their individual beliefs and values *must* continue to enforce this ideological (and white-centric) belief that non-Christian religions are not important (or as important as the Christian ones). The way the DDC is set up, a single cataloger deciding that this exclusion and marginalization of non-Christian religions within the DDC is unacceptable, can do very little to change the overall system. They cannot assign some other number within the DDC and have it be valid or coherent. If they were to use some other system of classification, the resulting records wouldn't work with current technologies, rendering the items inaccessible. Within such a system, making an ethical choice is very difficult on an individual basis. However, focusing on the system or institution allows us to explore solution that would allow individuals to make better decisions. 
+This means that catalogers, whatever their individual beliefs and values *must* continue to enforce this ideological (and white-centric) belief that non-Christian religions are not important (or as important as the Christian ones). The way the DDC is set up, a single cataloger ethically opposed to this exclusion and marginalization of non-Christian religions within the DDC, can do very little to change the overall system. They cannot assign some other number within the DDC and have it be valid or coherent. If they were to use some other system of classification, the resulting records wouldn't work with current technologies, rendering the items inaccessible. Within such a system, making an ethical choice is very difficult on an individual basis. However, focusing on the system or institution allows us to explore solution that would allow individuals to make better decisions. 
 
 Institutional oppression is about the system and processes that we use in our daily lives that, by the very nature of how they've been constructed and devised, exclude, marginalize, and oppress some people to the benefit of others. As such, attempting to locate the library in institutionalized oppression is about identifying the processes and systems within libraries that that instantiate oppressive values and beliefs not necessarily restricted to the library. As a consequence, libraries must also be analyzed in relation to other social, political, and economic institutions that act upon the library and that the library, in turn, impacts. 
 
@@ -50,7 +50,7 @@ Bivens-Tatum also careful to note his bias towards the enlightenment when he wri
 
 >I will be discussing the principles of the Englightenment in a positive way -- in line with numerous historians and philosophers over the last 300 years -- the past few decades have also seen a negative reaction to certain aspects of Enlightenment, or sometimes...[^3]to distortions of Enlightenment thought taken for the real thing.[^4]
 
-In the same spirit, I'll state outright that I think the enlightenment is and was evil. I don't use the word 'evil' lightly, but I'm hard pressed to think of any other word to describe a set of philosophical and political ideas that directly led to the deaths of millions of people and the subjugation of pretty much the entire world under white rule[^5].
+In the same spirit, I'll state outright that I think the enlightenment is and was evil. I don't use the word 'evil' lightly, but I'm hard pressed to think of any other word to describe a set of philosophical and political ideas that directly led to the deaths of millions of people and the subjugation of pretty much the entire world under white colonial powers[^5].
 
 My approach to understanding the enlightenment is more holistic than Bivens-Tatum. My general perspective is to understand the enlightenment as an ideology. We cannot separate the philosophical and political ideas of the enlightenment from its historical context. Moreover, we cannot separate how these ideas formed the conceptual basis for many out currently existing political, economic, and social systems.
 
@@ -68,15 +68,15 @@ In any case, my hope in this discussion of the enlightenment and its thought and
 
 To further clarify, since Bivens-Tatum engages in an interesting, rhetorical sleight of hand: "If anything, it is the immanent critique within Enlightenment political thought that allows us to view the contrast between the the rhetoric and pratice of, say, Thomas Jefferson, as a contradiction"[^20]. This appears tantamount to Bivens-Tatum asserting that it is _because_ of the enlightenment that we are able to criticize the enlightenment. Essentially, that it is an enlightened value of 'freedom' that allows us to perceive the contradiction of a slave-owner writing about freedom. 
 
-Strangely, this insistence of the complete hegemony of enlightenment values and thought in society today essentially proves the point I've been trying to make about the enlightenment as being one of many tools developed during the height of colonialism as a means for white supremacist dominance over the world. That Bivens-Tatum fails to make room or space for criticisms of the enlightenment that occur from _outside_ of the tradition represents his commitment to the myth-making, hegemony of the enlightenment itself[^21]. This is pretty much demonstrated he states: "Their historical blindness to their own contradictions hardly negates the universal appeal of enlightened political thought"[^22]. 
+Strangely, this insistence of the complete hegemony of enlightenment values and thought in society today essentially proves the point I've been trying to make about the enlightenment as being one of many tools developed during the height of colonialism as a means for white dominance over the world. That Bivens-Tatum fails to make room or space for criticisms of the enlightenment that occur from _outside_ of the tradition represents his commitment to the myth-making, hegemony of the enlightenment itself[^21]. This is pretty much demonstrated he states: "Their historical blindness to their own contradictions hardly negates the universal appeal of enlightened political thought"[^22]. 
 
-Part of the point I'm making is that enlightenment values and political ideas do _not_ have universal appeal. And framing this way is, itself, a colonial act. The reality is, is that colonialism has been resisted from the beginning. And it continues to be resisted. Bivens-Tatum's responses to criticcs of the enlightenment has no space for anti-colonial/decolonialization critiques of enlightenment thought and values. 
+Part of the point I'm making is that enlightenment values and political ideas do _not_ have universal appeal. And framing this way is, itself, a colonial act. The reality is, is that colonialism has been resisted from the beginning. And it continues to be resisted. Bivens-Tatum's responses to critics of the enlightenment has no space for anti-colonial/decolonialization critiques of enlightenment thought and values. 
 
 This is, above all, where my current criticism of libraries is coming from: understanding them as another institution within a white supremacist settler state. And the extent to which libraries embody enlightenment values, this is also a criticims of those values themselves. Because the ongoing existence of the settler state (especially if we are talking about Canada and/or the US) and all of its institutions necessitates continued resistence and working towards decolonization. A small part of which is deconstructing how even cherished and seemingly unassailable institutions like libraries continue the colonial project and, thus, are sites of violence and oppression.
 
 ###2.3 'Libraries'
 
-To a large extent, this paper will be focusing on public libraries (or, at least, the _idea_ of public libraries). Libraries obviously existed before the enlightenment. And pre-enlightenment it is pretty easy to see how libraries functioned as a way to entrench social disparities in power (few people were literate, few people had access to libraries, Europe hadn't had the printing press for that long, and education was definitely *not* something that your average person had access to.
+To a large extent, this paper will be focusing on public libraries (or, at least, the _idea_ of public libraries). Libraries obviously existed before the enlightenment. And pre-enlightenment it is pretty easy to see how libraries functioned as a way to entrench social disparities in power (few people were literate, few people had access to libraries, Europe hadn't had the printing press for that long, and education was definitely *not* something that your average person had access to).
 
 Public libraries are also an idea created during this period, one of the (many) institutions created by the ideology of englightenment. As Bivens-Tatum notes in the opening paragraph of his conclusion:
 
@@ -126,11 +126,35 @@ The answer to the questions in the previous partially relies on the history of l
 
 In discussing the purpose of public libraries, he notes that:
 
->Public libraries bgan as instruments of enlightenment, hoping to spread knowledge and culture broadly to the peopel, who as free citizens of a democratic republic required access to that knowledge and culture to live fuller lives and to become better citizens.[^22]
+>Public libraries began as instruments of enlightenment, hoping to spread knowledge and culture broadly to the people, who as free citizens of a democratic republic required access to that knowledge and culture to live fuller lives and to become better citizens.[^22]
 
 He also notes that public libraries pretty much failed miserable on this account, not being widely used and that those who did use it were largely interested in entertainment[^23].
 
-The first (and most obvious) conclusion we can draw from this is that public libraries in America were and always have been political. They have been, since their inception, creations of a specific and particular ideology. I'm also perfectly willing to follow Bivens-Tatum in saying that this ideology is that of the enlightenment. 
+The first (and most obvious) conclusion we can draw from this is that public libraries in America were and always have been political. They have been, since their inception, creations of a specific and particular ideology. I'm also perfectly willing to follow Bivens-Tatum in saying that this ideology is that of the political enlightenment.
+
+As such, it is pretty clear that Bivens-Tatum's idea that historical details and context have little bearing on the ideas can't hold much weight when we are, at least, speaking of public libraries. The fact that, for this discussion, we are talking about a specific country (the US), at a specific point in time are non-trivial details when attempting to understand the political impact of libraries and the impact politics had in shaping libraries as we know them. Indeed, this shaping by political forces is exactly what Bivens-Tatum discusses in the last section of the chapter[^24].
+
+And, in anticipation of his arguments against 'revisionist histories' about the founding of public libraries[^27], by noting that I am, in fact, following his account of the historical motivations and ideology surrounding the formation of libraries. I do honestly think that they were motivated by enlightenment ideals. Where we significantly depart is in statements like this, "we can have a reasonable pluralism in society, but only if everyone acknowledges the authority of the public democratic institutions'[^28].
+
+So that my position is very clear: I _don't_ acknowledge the authority of public democratic institutions. This is exactly _why_ I'm writing a paper locating the library in institutional oppression. I'm not attempting to quibble about what is or isn't the englightenment or what did or did not motivate the creation of public libraries. Part of my argument rests on the understanding that libraries, as an institution, are oppressive _because_ of their relationship to a white supremacist, hetero-patriarchal settler state. And because of the exact reasons he describes: libraries are necessary for creating better citizens of a democratic state. This is one of the major reasons why, as they currently exist in Canada and the US, libraries are a tool of oppression, rather than of liberation. 
+
+###4.2 Libraries are (and always have been) political institutions
+
+When Bivens-Tatum writes:
+
+>Public libraries began as instruments of enlightenment, hoping to spread knowledge and culture broadly to the people, who as free citizens of a democratic republic required access to that knowledge and culture to live fuller lives and to become better citizens.[^25]
+
+It becomes impossible not to understand that the primary purpose of libraries wasn't education (as he erroneously concludes from a claim like this[^26]) but political. Education within this ideological statement is only a means to an end: creating better citizens. In this instance 'better' equals 'better educated.'
+
+Almost nothing in that statement about the purpose of libraries is value-neutral and apolotical. And it would be difficult to unpack everything that is oppressive about this motivation to create libraries. 
+
+One of the clear points of contention is 'citizen.' At the time that the first public library was founded in the US, only white people were citizens (and able to become citizens). Of course, citizenship in the US has been extended to many kinds of people today. However, the point I'm making about this relationship between libraries and citizenship is exactly that: citizen is a flexible term and who is or isn't a citizen depends entirely on the American settler state. As a consequence, we can see that libraries were never intended to be for 'everyone.'
+
+Of course, not being for everyone isn't necessarily oppressive. We generally understand the purpose and value of some kinds of exclusionary spaces (like women's only shelters or cultural community centres). Even accepting that it is okay for libraries to be exclusionary spaces (which Bivens-Tatum wouldn't find acceptable[^29]), the fact that libraries are structurally inclined to benefit only those people who happened to be citizens when public libraries first became a reality should make us pause. Especially when we see someone like Bivens-Tatum arguing that "this is in fact the ultimate goal of both academic and public libraries, to make all knowledge accessible to every citizen, a universal library accessible to all"[^30].
+
+It is interesting to note this strange conflation in Bivens-Tatum's claim, since he clearly thinks that 'everyone' is a citizen, which is demonstrably false. You only need to look at the rhetoric surrounding undocumented immigrants in the US to understand how much this isn't true and how much 'citizens' absolutely do not _want_ it to be true. More importantly, we must also see a tension here with his earlier claims that "we can have a reasonable pluralism in society, but only if everone acknowledges the authority of the public democratic institutions"[^31]. The reality is this, so long as the purpose of libraries are this closely tied to supporting a settler state, they will never be able to "make all knowledge accessible"[^30], not when some knowledge has the ability to destabilize the settler state. Libraries are one means by which the settler state ensures it continued power. 
+
+In a context like this, many of the current real-world examples about how libraries are 'failing' marginalized people, it becomes clear that this isn't a 'failure' but intentional. Public libraries in American (and Canada) were not designed for everyone. They are, as Bivens-Tatum says, intended for citizens. And their purpose is to create _better_ citizens. 
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -175,3 +199,19 @@ The first (and most obvious) conclusion we can draw from this is that public lib
 [^22]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
 
 [^23]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
+
+[^24]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133-140.
+
+[^25]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
+
+[^26]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 133.
+
+[^27]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 111.
+
+[^28]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 112.
+
+[^29]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 140.
+
+[^30]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 140.
+
+[^31]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 112.
