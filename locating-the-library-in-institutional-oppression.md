@@ -84,43 +84,9 @@ Public libraries are also an idea created during this period, one of the (many) 
 
 At this moment in time, it is harder for me to see academic libraries as fitting within this universal model, mainly because academic libraries aren't (often) understood as 'public' or all that accessible to individuals outside of the academic community[^9]. More importantly, it is public libraries that exist within the minds and imaginations of the 'public' as embodying this romanticized ideal. 
 
-##3 The Imaginary Library
+##3 Whence libraries? 
 
-###3.1 Library nostalgia and romanticism
-
-For those of us who love libraries, there is a certain kind of nostalgia that attaches to them, particularly if libraries were important to us as youth. And in this nostalgia, in the retelling of how much and what libraries meant to us as children, a certain romanticized narrative is normalized about what libraries are and what they do. And while this romantic notion of libraries creates a lot of enthusiastic defenders and advocates for the library, it also serves to erase the subtle traces of oppression enacted by libraries.
-
-Library nostalgia, at times, is hard to distinguish from readers nostalgia (or book nostalgia). Especially since the common nostalgic library narrative is typically articulated by people who love to read. Who recollect their memories of the library as places where they had access to an unlimited supply of books. Places that nourished their love and joy of reading. They speak of the smell of books, the joy of browsing in the stacks, the delight of discovering books they never knew about, and so on. Sometimes, but not as frequently, these narratives will include actual librarians. But the presence of librarians isn't a necessary feature to library nostalgia. The necessary elements are books and reading. The library merely exists has place par excellence where these things are possible.
-
-Like all nostalgia, these narratives (of course) are always in the distant past. And by 'distant' I don't mean chronologically, but temporally, technologically, conceptually. And this distance is necessary to create the feelings of nostalgia and romance that adheres to libraries. It is what creates the mythology of libraries.
-
-When you read the nostalgia narratives by adults, it is pretty easy to see that libraries are often something that (only) exist for them as children. That they (quite frequently) are not dedicated users of the library today. This is what I mean by 'temporal' distance, since the narratives can be expressed by an adult of any age, they aren't usually talking about a specific era of libraries. Nonetheless, libraries are always something that exist in the past. And, by existing in the past, they are static and unchanging.
-
-This is why there is often a technological distance, as well. Bookless libraries are still fairly new and uncommon. Again, most nostalgia narratives will focus on the older technologies in libraries: the books, the card catalogues, and maybe the odd OPAC or two. This is partly a result of libraries existing only in the past for most adults[^10]. Because libraries are static, they only relevant technologies they have are focused and centered on books.
-
-The conceptual distance also depends on the temporal distance. It derives from the fact that library nostalgia narratives are told by adults from their remembered perspective as children. As a result of not being current users of the library (in many cases), they retain the unnuanced (and often incorrect) conception, understanding of libraries that they had as children, where they may have mistaken circulation assistants for librarians and other such errors. They are left with a conception of the library, based on this nostalgia, that is often idealized. I'm not suggesting, however, that their idealized conception of libraries fundamentally differs from the idealized conception of libraries within the profession, since librarians ourselves are often the most guilty of reifying library nostalgia.
-
-###3.2 Counter-, subversive, and alternative narratives
-
-The nostalgia narrative, though, does have its counterpoints. Thinking of my own experiences with libraries, themselves filtered through some nostalgia, have certain sites of discordance with the common narrative. 
-
-I remember spending hours browsing the stacks at the main branch of the public library as a teen. I'd spend the hour or so on the bus getting downtown to avail myself of the larger selection at the main branch. But the reason why I spent so many hours browsing the stacks was because I was searching for books with characters I might actually be able to identify with. At that period in time I was mainly looking for stories with queer characters. I was mainly able to find stuff for cis gay men, but little else.
-
-So while my experiences of browsing in the stacks and the joys of finding previously unknown 'worlds' mirrors the standard narrative but it also serves as a counter-point. I wasn't searching for escape (although I often did with fantasy and science fiction at that age), instead I was searching for something that would affirm my reality. Something that would help me feel connected to the real world.
-
-In the few studies that have been done to assess the information seeking behaviour of the LGBT community, this is a common experience. In the 2006 paper, "Is there a transgender canon?: Information Seeking and Use in the Transgender Community", the theoretical framework for their investigation centres notion of information gaps as a primary motivator for information seeking, particularly since the information gaps many of the participants were struggling with were often ontological in nature[^11]. Essentially, the transgender respondents of their study sought out information that would confirm/harmonize their understanding of themselves with the external world, rather than escape from it. They were looking for reality-affirming information. As such, it is critically important to note that the internet was highlighted as the most useful place for finding information[^12].
-
-With this understanding, we begin to see the other side of libraries, the one rarely seen or discussed in nostalgia narratives and the side of libraries very much central to this paper: the library as institution. And here, of course, we aren't necessarily talking about the physical buildings and geographical locations of libraries (although these are important parts of the whole), we are talking about the library as socio-economic and political institution. An institution that exists in relation to other socio-economic and political institutions.
-
-As noted in Downey's paper, "librarians are gatekeepers -- the people who decide what their communities would like to read"[^13]. In this role of gatekeeper, it becomes clear that libraries and librarians alike create an institution. And, as institution, can either either be oppressive or liberatory. Nostalgia narratives tend to focus on the liberatory aspects of libraries, highlighting how reading and information provides opportunity and freedom for them.
-
-What happens when the institution (see librarians) engage in activities like 'inside' censorship[^14]? Or when they capitulate to book challenges to remove books targeted to oppressed demographics? Or when, despite clear ethical guidelines, a queer youth can't ask a question without being outed[^15]? What happens when there is so little information for a marginalized group that they no longer even consider the library as a valid source? What does it mean that my research for this very paper has been hampered by most of the few articles about LGBT library users are stuck behind paywalls?
-
-At which point would librarians stop understanding themselves as guardians of intellectual freedom and champions of universal access when there is little-to-no evidence that they do anything beyond serving the interests and needs of the status quo?
-
-##4. Whence libraries? 
-
-###4.1 The historical genesis of libraries
+###3.1 The historical genesis of libraries
 
 The answer to the questions in the previous partially relies on the history of libraries. Getting in to the history of libraries can take many different paths, but for this paper we are going to follow along with the historical and intellectual context described by Bivens-Tatum in chapter three of _Libraries and the Enlightenment_. The chapter is rather delightfully titled "Public Libraries and the Political Enlightenment", something that rather supports my ideological approach for understading the enlightenment (contrary to what Bivens-Tatum asserts in chapter one). 
 
@@ -138,7 +104,7 @@ And, in anticipation of his arguments against 'revisionist histories' about the 
 
 So that my position is very clear: I _don't_ acknowledge the authority of public democratic institutions. This is exactly _why_ I'm writing a paper locating the library in institutional oppression. I'm not attempting to quibble about what is or isn't the englightenment or what did or did not motivate the creation of public libraries. Part of my argument rests on the understanding that libraries, as an institution, are oppressive _because_ of their relationship to a white supremacist, hetero-patriarchal settler state. And because of the exact reasons he describes: libraries are necessary for creating better citizens of a democratic state. This is one of the major reasons why, as they currently exist in Canada and the US, libraries are a tool of oppression, rather than of liberation. 
 
-###4.2 Libraries are (and always have been) political institutions
+###3.2 Libraries are (and always have been) political institutions
 
 When Bivens-Tatum writes:
 
@@ -158,7 +124,7 @@ In a context like this, many of the current real-world examples about how librar
 
 If we view libraries as embodying a particular political ideology (that of enlightenment and its support for democracy) and if we understand that libraries were created to make citizens better, then libraries are sites of indoctrination. From this angle, public libraries were never intended to be universal, rather they were always going to include some information and exclude others. More importantly, so long as libraries are informed and constrained by the enlightenment ideology, they will never be universal or live up to the dream of containing all knowledge and making it accessible to all peoples.
 
-###4.3 Libraries and Liberalism
+###3.3 Libraries and Liberalism
 
 That liberalism is the main (or perhaps most successful) political ideology to come out of the enlightenment apparently goes without saying, "Liberalism is perhaps the most characteristic political philosophy of the Enlightenment"[^32]. In my search for reference and resources for this paper, the connection between liberal philosophy and the enlightenment was simply taken as fact, rather than something that needed to be established. And Bivens-Tatum definitely connects liberalism with the enlightenment in his book with no explanation or attempt at explaining the relationship. As such, I'm going to take this as a given: liberalism is the modern day embodiment of enlightenment values.
 
@@ -178,7 +144,7 @@ While the Annoyed Librarian does think that the ALA (or at least parts of it) ar
 
 Last, as I began exploring in the previous section, we can see that, yes, libraries are political institutions and, from this section, they are political liberal institutions (in the classical understanding of liberalism). This also means that regardless of what the Annoyed Librarian and ALA wish, the proposition that libraries (and librarians) be politically neutral is a self-defeating one. Claiming that libraries ought to be liberal institutions that take 'no substantive political position' is a political position in and of itself. And it is _not_ a neutral one (if such a thing is even possible). 
 
-##5 Libraries, democracy, and the logics of white supremacy
+##4 Libraries, democracy, and the logics of white supremacy
 
 This part of the paper takes a substantive left turn from the outline, mainly because of issues with articles residing behind paywalls that would help me develop concrete lines of criticisms about the contemporary organization and structure of public libraries. I'm also focusing on only one line of criticism, white supremacy and decolonization, because of how focused my earlier sections are on the role that public libraries play (or ought to play) in maintaining a democratic state. 
 
@@ -190,7 +156,7 @@ Since it provides and easy three lens view through which I can examine the libra
 
 Namely, that libraries, being liberal institutions, are not 'neutral' in the ways that many of the sources cited in this paper either want them to be or believe they are, in some non-trivial respect (even as they may imperfectly embody this ideal). Rather, the explicit and expressed desire for libraries, from their inception in the US and Canadian political structures to their existence today, to create an informed citizenry for the sake of democracy allows us to finally locate the library in institutional oppression. 
 
-###5.1 The Logic of Slavery
+###4.1 The Logic of Slavery
 
 Andrea Smith writes:
 
@@ -208,7 +174,7 @@ While the Library of Congress (LOC) makes it clear that authority records are cr
 
 This is only one way that libraries come to be implicated in the logic of slavery, of capitalism, of white supremacy. We can also see that libraries, regardless of their making 'knowledge' or 'information' accessible for free, do not actually challenge or resist this logic. Rather, libraries are active participants in maintaining a system of intellectual property within a larger context of white supremacy that depends on the inherent enslaveability of Black people. 
 
-###5.2 The Logic of Genocide
+###4.2 The Logic of Genocide
 
 According to Andrea Smith:
 
@@ -222,7 +188,7 @@ By and large, this is what is missing from Bivens-Tatum's glowing account of lib
 
 However, we cannot be surprised by this, since the logic of genocide is "that indigenous peoples must disappear"[^43], so the absence of their struggle against settler colonialism in the US (and all other settler states) is necessary. This absence, of course, extends not only to their physical disappearance, but their disappearance from history and discourse. Thus, we have an ethical code that is fundamentally rooted in the ongoing Indigenous genocides.
 
-###5.3 The Logic of Orientalism
+###4.3 The Logic of Orientalism
 
 As Andrea Smith states: 
 
