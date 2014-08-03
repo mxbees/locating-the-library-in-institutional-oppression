@@ -178,7 +178,21 @@ While the Annoyed Librarian does think that the ALA (or at least parts of it) ar
 
 Last, as I began exploring in the previous section, we can see that, yes, libraries are political institutions and, from this section, they are political liberal institutions (in the classical understanding of liberalism). This also means that regardless of what the Annoyed Librarian and ALA wish, the proposition that libraries (and librarians) be politically neutral is a self-defeating one. Claiming that libraries ought to be liberal institutions that take 'no substantive political position' is a political position in and of itself. And it is _not_ a neutral one (if such a thing is even possible). 
 
-##5
+##5 Libraries, democracy, and the logics of white supremacy
+
+This part of the paper takes a substantive left turn from the outline, mainly because of issues with articles residing behind paywalls that would help me develop concrete lines of criticisms about the contemporary organization and structure of public libraries. I'm also focusing on only one line of criticism, white supremacy and decolonization, because of how focused my earlier sections are on the role that public libraries play (or ought to play) in maintaining a democratic state. 
+
+I'm also largely depending on Andrea Smith's understanding of how white supremacy is constituted: 
+
+>Instead, as I have also argued, we may wish to rearticulate our understanding of white supremacy by not assuming that it is enacted in a single fashion; rather, white supremacy is constituted by separate and distinct, but still interrelated, logics. I would argue that the three primary logics of white supremacy in the US context include: (1) slaveability/anti-black racism, which anchors capitalism; (2) genocide, which anchors colonialism; and (3) orientalism, which anchors war.[^36]
+
+Since it provides and easy three lens view through which I can examine the library as institution within a larger, democratic settler state like the US (or Canada). In this way, I hope to demonstrate some of the claims I've made elsewhere in the paper.
+
+Namely, that libraries, being liberal institutions, are not 'neutral' in the ways that many of the sources cited in this paper either want them to be or believe they are, in some non-trivial respect (even as they may imperfectly embody this ideal). Rather, the explicit and expressed desire for libraries, from their inception in the US and Canadian political structures to their existence today, to create an informed citizenry for the sake of democracy allows us to finally locate the library in institutional oppression. 
+
+###5.1 The Logic of Slavery
+
+
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -247,4 +261,6 @@ Last, as I began exploring in the previous section, we can see that, yes, librar
 [^34]: “Code of Ethics of the American Library Association.” Accessed August 3, 2014. http://www.ala.org/advocacy/proethics/codeofethics/codeethics.
 
 [^35]: Annoyed Librarian. “Annoyed Librarian: Libraries as Liberal Institutions.” Accessed August 3, 2014. http://annoyedlibrarian.blogspot.ca/2006/12/libraries-as-liberal-institutions.html.
+
+[^36]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
 
