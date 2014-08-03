@@ -208,6 +208,36 @@ While the Library of Congress (LOC) makes it clear that authority records are cr
 
 This is only one way that libraries come to be implicated in the logic of slavery, of capitalism, of white supremacy. We can also see that libraries, regardless of their making 'knowledge' or 'information' accessible for free, do not actually challenge or resist this logic. Rather, libraries are active participants in maintaining a system of intellectual property within a larger context of white supremacy that depends on the inherent enslaveability of Black people. 
 
+###5.2 The Logic of Genocide
+
+According to Andrea Smith:
+
+>This logic holds that indigenous peoples must disappear. In fact, they must always be disappearing, in order to enable non-indigenous peoples’ rightful claim to land. Through this logic of genocide, non-Native peoples then become the rightful inheritors of all that was indigenous—land, resources, indigenous spirituality, and culture. Genocide serves as the anchor of colonialism: it is what allows non-Native peoples to feel they can rightfully own indigenous peoples’ land. It is acceptable exclusively to possess land that is the home of indigenous peoples because indigenous peoples have disappeared.[^42]
+
+How libraries enforce this logic of white supremacy is should be rather obvious, by this point. It has been noted many times within this paper that libraries were created and continue to be conceived as institutions designed for benefit of creating an informed citizenry for the sake of democrary. 
+
+This can only be established as a value in a settler state like the US or Canada if the Indigenous peoples of this region have already disappeared. For 'Canada' and the 'United States' to continue to exist as democratic states (or for them to even be conceived as such) requires either that we understand that the Indigenous genocide is already complete or that we ensure that the genocide is ongoing. Since it is a fact that the Indigenous peoples of North America continue to exist, the ideal of libraries as liberal institutions existing to make democracy 'better,' thus stronger, is no less than an ideal wherein the settler colonial genocide of Indigenous peoples is finally complete.
+
+By and large, this is what is missing from Bivens-Tatum's glowing account of libraries and the enlightenment. He wants us to distinguish the historical and material realities of the enlightenment from its ideas/philosophy. Except his basic error is not realizing that the 'historical' and material context of the enlightenment is not actually 'historical' at all. As we continue to grapple with the ideas of the enlightenment today, so do we grapple with the material conditions that both caused and are caused by the enlightenment.
+
+However, we cannot be surprised by this, since the logic of genocide is "that indigenous peoples must disappear"[^43], so the absence of their struggle against settler colonialism in the US (and all other settler states) is necessary. This absence, of course, extends not only to their physical disappearance, but their disappearance from history and discourse. Thus, we have an ethical code that is fundamentally rooted in the ongoing Indigenous genocides.
+
+###5.3 The Logic of Orientalism
+
+As Andrea Smith states: 
+
+>The logic of orientalism marks certain peoples or nations as inferior and deems them to be a constant threat to the wellbeing of empire... Consequently, orientalism serves as the anchor of war, because it allows the United States to justify being in a constant state of war to protect itself from its enemies. Orientalism allows the United States to defend the logics of slavery and genocide as these practices enable it to stay “strong enough” to fight these constant wars.[^44]
+
+Smith doesn't go into the details of Orientalism, as it was developed by Edward Said, but libraries firmly belong to the knowledge creation machine identified by Said as "a structured set of concepts, assumptions, and discursive practices that were used to produce, interpret, and evaluate knowledge about non-European peoples"[^49]. It is this knowledge that informs the logic of orientalism described by Smith. The knowledge that allows the US to justify its ongoing wars.
+
+Libraries disguise their Orientalism by invoking the stance of neutrality: "We distinguish between our personal convictions and professional duties and do not allow our personal beliefs to interfere with fair representation of the aims of our institutions or the provision of access to their information resources"[^45]. However, it is pretty easy to see that libraries are far from neutral spaces. There are many examples in the literature about the ways that cataloguing[^48], collection development[^46], reference[^47], and many other library functions reveal deep biases in how the library as institution exists. More importantly, as Bivens-Tatum himself writes, "we can have a reasonable pluralism in society, but only if everone acknowledges the authority of the public democratic institutions"[^31]. In such as situation, it is impossible for neutrality to exist.
+
+Thus, if we look past this claim of neutrality and understand that it is an impossible position, we begin to understand how libraries come to articulate the logic of orientalism. If libraries and librarians are not neutral, then how can the 'information' transmitted by librarians be neutral? One of the interesting distinctions often drawn in library literature, is between 'information' and 'knowledge'. Information is understood as neutral facts and knowledge is created when we understand information (or something like this). It is a tidy distinction that allows neutral librarians to feel like we are transmitting neutral facts, all unmediated by reality.
+
+Except that when we look into the collections and actual 'information' contain in libraries and how it is organized, we can see that they (surely by accident) somehow manage to construct a reality wherein whiteness is default, normal, civilized and everything else is Other. In so doing, libraries very much participate in a larger imperial project that justifies war. 
+
+##5 Conclusions
+
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
 [^2]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 2.
@@ -287,4 +317,20 @@ This is only one way that libraries come to be implicated in the logic of slaver
 [^40]: “Frequently Asked Questions (Library of Congress Authorities).” Accessed August 3, 2014. http://authorities.loc.gov/help/auth-faq.htm#1.
 
 [^41]: Just read the US Copyright's office's statement on orphaned works: “Orphan Works and Mass Digitization | U.S. Copyright Office.” Accessed August 3, 2014. http://www.copyright.gov/orphan/.
+
+[^42]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
+
+[^43]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
+
+[^44]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
+
+[^45]: “Code of Ethics of the American Library Association.” Accessed August 3, 2014. http://www.ala.org/advocacy/proethics/codeofethics/codeethics.
+
+[^46]: See Curry, Ann. “If I Ask, Will They Answer?” Reference & User Services Quarterly 45, no. 1 (Fall 2005): 65–75. http://pacificreference.pbworks.com/f/If+I+Ask,+Will+They+Answer.pdf
+
+[^47]: See Downey, Jennifer. “Public Library Collection Development Issues Regarding the Information Needs of GLBT Patrons.” Progressive Librarian, no. 25 (Summer 2005): 86–95.
+
+[^48]: See “Teaching the Radical Catalog.” in Radical Cataloging: Essays at the Front, ed. K.R. Roberto. Jefferson, N.C.: McFarland, April 2008. http://www.emilydrabinski.com/teaching-the-radical-catalog/
+
+[^49]: Kohn, Margaret. “Colonialism.” Edited by Edward N. Zalta. The Stanford Encyclopedia of Philosophy, 2014. http://plato.stanford.edu/archives/spr2014/entries/colonialism/.
 
