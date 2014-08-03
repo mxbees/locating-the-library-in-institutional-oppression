@@ -158,7 +158,27 @@ In a context like this, many of the current real-world examples about how librar
 
 If we view libraries as embodying a particular political ideology (that of enlightenment and its support for democracy) and if we understand that libraries were created to make citizens better, then libraries are sites of indoctrination. From this angle, public libraries were never intended to be universal, rather they were always going to include some information and exclude others. More importantly, so long as libraries are informed and constrained by the enlightenment ideology, they will never be universal or live up to the dream of containing all knowledge and making it accessible to all peoples.
 
-###4.3 
+###4.3 Libraries and Liberalism
+
+That liberalism is the main (or perhaps most successful) political ideology to come out of the enlightenment apparently goes without saying, "Liberalism is perhaps the most characteristic political philosophy of the Enlightenment"[^32]. In my search for reference and resources for this paper, the connection between liberal philosophy and the enlightenment was simply taken as fact, rather than something that needed to be established. And Bivens-Tatum definitely connects liberalism with the enlightenment in his book with no explanation or attempt at explaining the relationship. As such, I'm going to take this as a given: liberalism is the modern day embodiment of enlightenment values.
+
+It does need to be noted, though, that liberalism as political philosophy/ideology is not really at all connected to political parties as they currently exist in Canada or the US. The type of liberal political ideology that was born out of the englightenment fundamentally structures most contemporary political parties and organization. This ideology broadly enscapsulates the values of having a democratic state, freedom and inherent rights, etc. While current political parties and whatever will debate about what counts as 'freedom' and how, exactly, the democratic state should be run, most of the larger, influential ones agree on these basic tenets[^33].
+
+In the ALA's Code of Ethics, they write:
+
+>We significantly influence or control the selection, organization, preservation, and dissemination of information. In a political system grounded in an informed citizenry, we are members of a profession explicitly committed to intellectual freedom and the freedom of access to information. We have a special obligation to ensure the free flow of information and ideas to present and future generations.[^34]
+
+It should be fairly easy to see the parallels of this statement to what Bivens-Tatum notes was the original motivation for the creation of public libraries, at least as far as the 'political system grounded in an informed citizenry' is concerned. 
+
+As the Annoyed Librarian also notes:
+
+>Outside of a commitment to liberal democracy in general--which, by the way, is the only regime that supports the intellectual freedom of writers, artists, historians, philosophers, etc.-- liberal institutions should take no substantive political position. A liberal library association would support intellectual freedom, access to information, and liberal democratic political institutions, but wouldn't go on to make political statements irrelevant to libraries.[^35]
+
+While the Annoyed Librarian does think that the ALA (or at least parts of it) are failing this liberal standard, it doesn't make a difference to the reality that, failing or not, liberalism (thus enlightenment) is the fundamental political philosophy informing how (at the very least) libraries and librarians think of themselves.
+
+Last, as I began exploring in the previous section, we can see that, yes, libraries are political institutions and, from this section, they are political liberal institutions (in the classical understanding of liberalism). This also means that regardless of what the Annoyed Librarian and ALA wish, the proposition that libraries (and librarians) be politically neutral is a self-defeating one. Claiming that libraries ought to be liberal institutions that take 'no substantive political position' is a political position in and of itself. And it is _not_ a neutral one (if such a thing is even possible). 
+
+##5
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -219,3 +239,12 @@ If we view libraries as embodying a particular political ideology (that of enlig
 [^30]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 140.
 
 [^31]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 112.
+
+[^32]: Bristow, William. “Enlightenment.” Edited by Edward N. Zalta. The Stanford Encyclopedia of Philosophy, 2011. http://plato.stanford.edu/archives/sum2011/entries/enlightenment/.
+
+[^33]: In Canada, for example,  while the Conservative party and the Liberal party place a different emphasis on what they consider 'freedom' and have divergent views on economics, neither has any interest in pushing for a non-democratic Canada. 
+
+[^34]: “Code of Ethics of the American Library Association.” Accessed August 3, 2014. http://www.ala.org/advocacy/proethics/codeofethics/codeethics.
+
+[^35]: Annoyed Librarian. “Annoyed Librarian: Libraries as Liberal Institutions.” Accessed August 3, 2014. http://annoyedlibrarian.blogspot.ca/2006/12/libraries-as-liberal-institutions.html.
+
