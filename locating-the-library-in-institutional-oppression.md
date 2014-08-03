@@ -192,7 +192,21 @@ Namely, that libraries, being liberal institutions, are not 'neutral' in the way
 
 ###5.1 The Logic of Slavery
 
+Andrea Smith writes:
 
+>One pillar of white supremacy is the logic of slavery. This logic renders black people as inherently enslaveable—as nothing more than property...This logic is the anchor of capitalism. That is, the capitalist system ultimately commodifies all workers: one’s own person becomes a commodity that one must sell in the labour market while the profits of one’s work are taken by somebody else. To keep this capitalist system in place—which ultimately commodifies most people—the logic of slavery applies a racial hierarchy to this system.[^37]
+
+The way that libraries articulate this logic of white supremacy is expressed in the fourth statement in the ALA's Code of Ethics, "We respect intellectual property rights"[^38]. I understand that many people will take my argument here as tenuous, which doesn't bother me.
+
+Notions of 'property' (esp. 'private property') are fundamental to capitalism. While the reduction of human beings -- of Black people -- to 'property' is the most extreme (and the final) articulation of this logic, the notion of 'intellectual property' represents one expression of this logic. Absolutely nothing is more natural to capitalism than reducing something like a creative work to 'property' that can and must be 'exploited' in some important respect[^39].
+
+Of course, many people would counter this claim by saying that the manner by which libraries operate fundamentally contradicts this capitalist impulse by making 'intellectual property' freely accessible to the public. Except, this isn't entirely true or, rather, it doesn't represent the entire picture. 
+
+When we look at the work of libraries, we begin to see that they actually play a significant role in not just 'respecting intellectual property' but in ensuring the stability of the of the system of intellectual property itself. One mechanism through which libraries participate in maintaining intellectual property is through the creation of 'authority records': "An authority record is a tool used by librarians to establish forms of names (for persons, places, meetings, and organizations), titles, and subjects used on bibliographic records"[^40]. 
+
+While the Library of Congress (LOC) makes it clear that authority records are created with the intent to improve accessibility, the mechanism they use for this ensures that every creative work necessarily has an identifiable owner. This is necessary in a system of capital wherein everything and everyone can (and likely will be) reduced to a commodity. Having 'orphaned works' creates a serious problem within a system of intellectual property and should be avoided where possible within capitalism[^41].
+
+This is only one way that libraries come to be implicated in the logic of slavery, of capitalism, of white supremacy. We can also see that libraries, regardless of their making 'knowledge' or 'information' accessible for free, do not actually challenge or resist this logic. Rather, libraries are active participants in maintaining a system of intellectual property within a larger context of white supremacy that depends on the inherent enslaveability of Black people. 
 
 [^1]: Gaiman, Neil. “Why Our Future Depends on Libraries, Reading and Daydreaming.” The Guardian, October 15, 2013, sec. Books. http://www.theguardian.com/books/2013/oct/15/neil-gaiman-future-libraries-reading-daydreaming.
 
@@ -263,4 +277,14 @@ Namely, that libraries, being liberal institutions, are not 'neutral' in the way
 [^35]: Annoyed Librarian. “Annoyed Librarian: Libraries as Liberal Institutions.” Accessed August 3, 2014. http://annoyedlibrarian.blogspot.ca/2006/12/libraries-as-liberal-institutions.html.
 
 [^36]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
+
+[^37]: Smith, Andrea. “Indigeneity, Settler Colonialism, White Supremacy - Centre for World Dialogue.” Global Dialogue 12, no. 2 (2010). http://www.worlddialogue.org/content.php?id=488.
+
+[^38]: “Code of Ethics of the American Library Association.” Accessed August 3, 2014. http://www.ala.org/advocacy/proethics/codeofethics/codeethics.
+
+[^39]: Like with above, it is also unsurprising that a system of intellectual property is fundamentally organized by the logic of slavery, since it is also fairly easy to see that the creative works of Black people within this system still achieve the most extreme position within this system. It is ridiculously apparent in today's contemporary cultural millieu that Black creative and intellectual works are considered property in a very different way than the work created by non-Black peoples. Their intellectual property is 'ownable' (thus exploitable) by everyone other than themselves, since 'property' cannot itself own property but the yields of 'property' can be exploited or claimed by the first non-Black person who desires it. The interesting thing about the appropriation of Black culture and creative works is how often people don't realize it.
+
+[^40]: “Frequently Asked Questions (Library of Congress Authorities).” Accessed August 3, 2014. http://authorities.loc.gov/help/auth-faq.htm#1.
+
+[^41]: Just read the US Copyright's office's statement on orphaned works: “Orphan Works and Mass Digitization | U.S. Copyright Office.” Accessed August 3, 2014. http://www.copyright.gov/orphan/.
 
