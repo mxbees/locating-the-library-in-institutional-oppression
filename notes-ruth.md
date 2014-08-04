@@ -12,7 +12,7 @@ Something here needs to be added, because it's not that the "settler state" "nec
 
 >2.2 The Enlightenment
 
-Personally I think of The Enlightement like this as a proper noun, but elsewhere in the text you use it entirely lowercase.  Intentional?  Ditto 3.3 header, is Liberalism capitalized intentionally?
+Personally I think of The Enlightement like this as a proper noun, but elsewhere in the text you use it entirely lowercase.  Intentional?  Ditto 3.3 header, is Liberalism capitalized intentionally?  Ditto Orientalism.
 
 ## 3.
 
