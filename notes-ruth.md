@@ -21,3 +21,9 @@ Personally I think of The Enlightement like this as a proper noun, but elsewhere
 I'm not sure how you feel about modifications to quotations, but I would cut out the first part of this sentence for clarity.  It would start with "We may wish to rearticulate our understanding".
 
 I keep moving things out of brackets and into the sentence if it makes sense.
+
+## 4.
+
+>Rather, libraries are active participants in maintaining a system of intellectual property within a larger context of white supremacy...
+
+While I totally get where you're coming from with this, it requires some background knowledge on my part and seems to come out of left field.  Perhaps refer back to or move some of your stuff from the intro about slavery and capitalist commodification of Black people into this section?  You're talking about intellectual property law and then compairing it to slavery, I think there needs to be a more explicit step in between.
