@@ -142,7 +142,7 @@ I'm also largely depending on Andrea Smith's understanding of how white supremac
 
 >Instead, as I have also argued, we may wish to rearticulate our understanding of white supremacy by not assuming that it is enacted in a single fashion; rather, white supremacy is constituted by separate and distinct, but still interrelated, logics. I would argue that the three primary logics of white supremacy in the US context include: (1) slaveability/anti-black racism, which anchors capitalism; (2) genocide, which anchors colonialism; and (3) orientalism, which anchors war.[^36]
 
-Since it provides and easy three lens view through which I can examine the library as institution within a larger, democratic settler state like the US (or Canada). In this way, I hope to demonstrate some of the claims I've made elsewhere in the paper.
+Since it provides and easy three lens view through which I can examine the library as institution within a larger, democratic settler state like the US or Canada. In this way, I hope to demonstrate some of the claims I've made elsewhere in the paper.
 
 Namely, that libraries, being liberal institutions, are not 'neutral' in the ways that many of the sources cited in this paper either want them to be or believe they are, in some non-trivial way (even as they may imperfectly embody this ideal). Rather, the explicit and expressed desire for libraries, from their inception in the US and Canadian political structures to their existence today, to create an informed citizenry for the sake of democracy allows us to finally locate the library in institutional oppression. 
 
@@ -152,7 +152,7 @@ Andrea Smith writes:
 
 >One pillar of white supremacy is the logic of slavery. This logic renders black people as inherently enslaveable—as nothing more than property...This logic is the anchor of capitalism. That is, the capitalist system ultimately commodifies all workers: one’s own person becomes a commodity that one must sell in the labour market while the profits of one’s work are taken by somebody else. To keep this capitalist system in place—which ultimately commodifies most people—the logic of slavery applies a racial hierarchy to this system.[^37]
 
-The way that libraries articulate this logic of white supremacy is expressed in the fourth statement in the ALA's Code of Ethics, "We respect intellectual property rights"[^38] (I understand that many people will take my argument here as tenuous &mdash; this doesn't bother me).
+The way that libraries articulate this logic of white supremacy is expressed in the fourth statement in the ALA's Code of Ethics, "We respect intellectual property rights"[^38]. (I understand that many people will take my argument here as tenuous &mdash; this doesn't bother me).
 
 Notions of 'property' (esp. 'private property') are fundamental to capitalism. While the reduction of human beings &mdash; of Black people &mdash; to 'property' is the most extreme (and the final) articulation of this logic, the notion of 'intellectual property' represents one expression of this logic. Absolutely nothing is more natural to capitalism than reducing something like a creative work to 'property' that can and must be 'exploited'[^39].
 
