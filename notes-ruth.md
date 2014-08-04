@@ -1,0 +1,1 @@
+Have you considered a table of contents (or the outline) at the top of the article or would that spoil the surprise?  It's nice to know where we're going or where we are in a long article.
