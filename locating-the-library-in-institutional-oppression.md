@@ -140,7 +140,7 @@ This part of the paper takes a substantive left turn from the outline, mainly be
 
 I'm also largely depending on Andrea Smith's understanding of how white supremacy is constituted: 
 
->Instead, as I have also argued, we may wish to rearticulate our understanding of white supremacy by not assuming that it is enacted in a single fashion; rather, white supremacy is constituted by separate and distinct, but still interrelated, logics. I would argue that the three primary logics of white supremacy in the US context include: (1) slaveability/anti-black racism, which anchors capitalism; (2) genocide, which anchors colonialism; and (3) orientalism, which anchors war.[^36]
+>We may wish to rearticulate our understanding of white supremacy by not assuming that it is enacted in a single fashion; rather, white supremacy is constituted by separate and distinct, but still interrelated, logics. I would argue that the three primary logics of white supremacy in the US context include: (1) slaveability/anti-black racism, which anchors capitalism; (2) genocide, which anchors colonialism; and (3) orientalism, which anchors war.[^36]
 
 Since it provides and easy three lens view through which I can examine the library as institution within a larger, democratic settler state like the US or Canada I hope to demonstrate some of the claims I've made elsewhere in the paper. 
 
