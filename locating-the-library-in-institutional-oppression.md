@@ -313,7 +313,7 @@ Wolfson, Matthew. “The Origins of Globalisation.” Prospect Magazine, May 14,
 
 [^59]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 12.
 
-[^60]: Bivens-Tatum is careful to note his bias towards the enlightenment on page 4 of his book when he writes "I will be discussing the principles of the Englightenment in a positive way." In the same spirit, I'll state outright that I think the enlightenment is and was evil because it is the ideology of colonialism. I don't use the word 'evil' lightly, but I'm hard pressed to think of any other word to describe a set of philosophical and political ideas that directly led to the deaths of millions of people and the subjugation of pretty much the entire world under white colonial powers[^5].
+[^60]: Bivens-Tatum is careful to note his bias towards the enlightenment on page 4 of his book when he writes "I will be discussing the principles of the Englightenment in a positive way." In the same spirit, I'll state outright that I think the enlightenment is and was evil because it is the ideology of colonialism. I don't use the word 'evil' lightly, but I'm hard pressed to think of any other word to describe a set of philosophical and political ideas that directly led to the deaths of millions of people and the subjugation of pretty much the entire world under white colonial powers.
 
 [^61]: Bivens-Tatum, Wayne, _Libraries and the Enlightenment_ (Library Juice Press, 2012), 23.
 
