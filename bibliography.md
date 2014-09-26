@@ -16,11 +16,13 @@ Berg, Jacob. “Yes, Libraries Are Oppressive. So What Now?” BeerBrarian. Acce
 
 Berman, Sanford, 1933-. “‘Inside’ Censorship.” De Facto Censorship Implicit in Collection Decisions, no. 18 (July 15, 2001): 48–63.
 
-Bivens-Tatum, Wayne. Libraries and the Enlightenment /. Library Juice Press,, 2012.
+Bivens-Tatum, Wayne. Libraries and the Enlightenment /. Library Juice Press, 2012.
 
 Bond, Bradley J., Veronica Hefner, and Kristin L. Drogos. “Information-Seeking Practices during the Sexual Development of Lesbian, Gay, and Bisexual Individuals: The Influence and Effects of Coming Out in a Mediated Environment.” Sexuality & Culture 13, no. 1 (March 1, 2009): 32–50. doi:10.1007/s12119-008-9041-y.
 
 Boon, Michele Hilton, and Vivian Howard. “Recent Lesbian/gay/bisexual/transgender Fiction for Teens: Are Canadian Public Libraries Providing Adequate Collections?” Collection Building 23, no. 3 (September 1, 2004): 133–38. doi:10.1108/01604950410544674.
+
+Bowen, Sesali. “Let’s Get Ratchet! Check Your Privilege At The Door.” Racialicious - the Intersection of Race and Pop Culture. Accessed September 15, 2014. http://www.racialicious.com/2013/04/09/lets-get-ratchet-check-your-privilege-at-the-door/.
 
 Bristow, William. “Enlightenment.” Edited by Edward N. Zalta. The Stanford Encyclopedia of Philosophy, 2011. http://plato.stanford.edu/archives/sum2011/entries/enlightenment/.
 
@@ -28,7 +30,7 @@ Bristow, William. “Enlightenment.” Edited by Edward N. Zalta. The Stanford E
 
 “Code of Ethics of the American Library Association.” Accessed August 3, 2014. http://www.ala.org/advocacy/proethics/codeofethics/codeethics.
 
-Commager, Henry Steele. The Empire of Reason How Europe Imagined and America Realized the Enlightenment /. History E-Book Project. Anchor Press/Doubleday,, 1977.
+Commager, Henry Steele. The Empire of Reason How Europe Imagined and America Realized the Enlightenment /. History E-Book Project. Anchor Press/Doubleday, 1977.
 
 Cooper, Susan. “Susan Cooper: Libraries Are the Frontline in the War for the Imagination.” The Guardian, December 11, 2013, sec. Books. http://www.theguardian.com/books/2013/dec/11/susan-cooper-youth-libraries-group-speech-dark-rising.
 
@@ -86,6 +88,8 @@ Morris, Martin, and K. R. Roberto. “Information Needs and Information-Seeking 
 
 Pilkington, Lionel, and Fiona Bateman. Studies in Settler Colonialism: Politics, Identity and Culture. Houndmills, B New York: Palgrave Macmillan, 2011.
 
+“PL25_summer2005.pdf.” Accessed July 19, 2014. http://www.progressivelibrariansguild.org/PL_Jnl/pdf/PL25_summer2005.pdf.
+
 “PropertyRightsFinal - PropertyRightsFinal.pdf.” Accessed August 9, 2014. http://www.ualberta.ca/~klumpp/docs/PropertyRightsFinal.pdf.
 
 Roberto, K. R., ed. Radical Cataloging: Essays at the Front. Jefferson, N.C: McFarland & Co, 2008.
@@ -95,6 +99,8 @@ Rose, India D., and Daniela B. Friedman. “We Need Health Information Too: A Sy
 Rothbauer, Paulette. “‘People Aren’t Afraid Anymore, But It’s Hard to Find Books’: Reading Practices That Inform The Personal and Social Identities of Self-Identified Lesbian and Queer Young Women.” Canadian Journal of Information & Library Sciences 28, no. 3 (September 2004): 53–74.
 
 Said, Edward W. Orientalism. Penguin Classics. London: Penguin, 2003.
+
+Saunt, Claudio. “1776: Not Just the Revolution - The Boston Globe.” BostonGlobe.com, July 6, 2014. https://www.bostonglobe.com/ideas/2014/07/05/not-just-revolution/7NWJFee79vi7mxxLe2zMvI/story.html.
 
 Save Our Libraries - Margaret Atwood, 2011. http://www.youtube.com/watch?v=pbsol97CvLU&feature=youtube_gdata_player.
 
@@ -107,6 +113,8 @@ Slaughter, Karin. “FIGHT FOR LIBRARIES AS YOU DO FREEDOM.” Save The Librarie
 Smith, Zadie. “The North West London Blues.” NYRblog, June 2, 2012. http://www.nybooks.com/blogs/nyrblog/2012/jun/02/north-west-london-blues/.
 
 Veracini, Lorenzo. Settler Colonialism. Basingstoke: Palgrave Macmillan, 2010. http://www.palgraveconnect.com.ezproxy.library.ubc.ca/pc/doifinder/10.1057/9780230299191.
+
+vitoria. “The Fungibility of Blackness.” Acceptable Society. Accessed September 5, 2014. http://acceptablesociety.blogspot.ca/2012/04/fungibility-of-blackness.html.
 
 Whelan, Frederick G. Enlightenment Political Thought and Non-Western Societies: Sultans and Savages. Routledge, 2009.
 
